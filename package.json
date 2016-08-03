@@ -1,0 +1,20 @@
+{
+  "name": "js_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "my.conf.js",
+  "dependencies": {},
+  "devDependencies": {
+    "jasmine": "^2.4.1",
+    "jasmine-core": "^2.4.1",
+    "karma": "^1.1.2",
+    "karma-cli": "^1.0.1",
+    "karma-jasmine": "^1.0.2",
+    "karma-phantomjs-launcher": "^1.0.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "DawnyWu <superbatironmans5@gmail.com>",
+  "license": "ISC"
+}
